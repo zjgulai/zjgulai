@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">路特 AI：从全球市场信号到品牌行动</title>
+  <desc id="desc">面向中国跨境品牌管理层的市场信号、证据、决策和行动路线图</desc>
+  <defs>
+    <radialGradient id="route-field" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#E8EDEF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#E8EDEF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="#FAFAF7"/>
+  <ellipse cx="940" cy="230" rx="300" ry="205" fill="url(#route-field)"/>
+  <g font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif">
+    <text x="64" y="58" fill="#0C2240" font-size="16" font-weight="700" letter-spacing="2">LUTE AI</text>
+    <text x="1136" y="58" text-anchor="end" fill="#607685" font-size="14" font-weight="700" letter-spacing="2">GLOBAL COMMERCE SYSTEMS · SHENZHEN</text>
+
+    <text x="64" y="180" fill="#0C2240" font-size="52" font-weight="800">从全球市场信号</text>
+    <text x="64" y="242" fill="#0C2240" font-size="52" font-weight="800">到品牌行动</text>
+
+    <g fill="none" stroke="#E8EDEF" stroke-width="1.5" stroke-dasharray="4 7">
+      <path d="M720 336 V374"/>
+      <path d="M850 194 V374"/>
+      <path d="M992 236 V374"/>
+      <path d="M1144 108 V374"/>
+    </g>
+    <path d="M720 318 C820 76 980 354 1144 88" fill="none" stroke="#C7372F" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="720" cy="318" r="13" fill="#0C2240"/>
+    <circle cx="850" cy="176" r="13" fill="#C7372F"/>
+    <circle cx="992" cy="218" r="13" fill="#0C2240"/>
+    <circle cx="1144" cy="88" r="15" fill="#C7372F"/>
+
+    <g fill="#607685" font-size="14" font-weight="700" letter-spacing="2">
+      <text x="700" y="398">SIGNAL</text>
+      <text x="820" y="398">EVIDENCE</text>
+      <text x="960" y="398">DECISION</text>
+      <text x="1110" y="398">ACTION</text>
+    </g>
+  </g>
+</svg>
