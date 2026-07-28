@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Pray Chow｜11 年数据科学与算法经验</strong><br>
+  <strong>11 年数据科学与算法｜164 项可治理 Skills｜81 项 Hook 自动化测试</strong><br>
   为中国跨境品牌构建可核验的决策系统：把消费者信号、研究证据和供应链口径，转化为有负责人、有边界、可持续运营的经营动作。
 </p>
 
