@@ -233,7 +233,7 @@ Expected: 变更全部能追溯到本设计。
 - Consumes: 用户批准的本地候选版本。
 - Produces: GitHub Profile 元数据、Pins 和 README 同步更新后的公开主页。
 
-- [ ] **Step 1: 提交并推送 Profile 仓库**
+- [x] **Step 1: 提交并推送 Profile 仓库**
 
 Run: `git add README.md assets/readme docs/superpowers scripts/check-profile-exposure.sh`
 
@@ -243,7 +243,7 @@ Run: `git push origin main`
 
 Expected: `origin/main` 指向新提交。
 
-- [ ] **Step 2: 修改 Profile 元数据**
+- [x] **Step 2: 修改 Profile 元数据**
 
 执行 GitHub API 更新：
 
@@ -251,7 +251,7 @@ Expected: `origin/main` 指向新提交。
 - Website 清空。
 - Name、Bio、Location 保持设计文档中的值。
 
-- [ ] **Step 3: 更新 Pins**
+- [x] **Step 3: 更新 Pins**
 
 取消现有 Pins，按以下顺序设置：
 
@@ -262,13 +262,13 @@ Expected: `origin/main` 指向新提交。
 5. `Agent_hook`
 6. `kgraph`
 
-- [ ] **Step 4: 验证公开 HTML**
+- [x] **Step 4: 验证公开 HTML**
 
 抓取 `https://github.com/zjgulai` 并对页面中 Profile 元数据、Pins 与 README 区域执行禁用字符串扫描。
 
 Expected: 可编辑主页介绍零命中。
 
-- [ ] **Step 5: 验证桌面与移动端**
+- [x] **Step 5: 验证桌面与移动端**
 
 检查 1440×1000、390×844 和 320×568：
 
